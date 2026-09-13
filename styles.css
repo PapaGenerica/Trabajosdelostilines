@@ -89,7 +89,7 @@ section {
 }
 
 .flex-item {
-    width: 30%;
+    width: 35%;
     background-color: #212431;
     border: 3px solid #6290be;
     box-sizing: border-box;
@@ -125,7 +125,7 @@ footer {
     position: relative;
     top: 250px;
     width: 100%;
-    background-color: #1a1c26;
+    background-color: #45495b;
     padding: 5px;
     text-align: center;
     box-sizing: border-box;
