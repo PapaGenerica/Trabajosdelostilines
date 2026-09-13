@@ -51,7 +51,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #ffcc00;
+    color: #bbae79;
 }
 
 
@@ -71,14 +71,21 @@ section {
     box-sizing: border-box;
 }
 
-#tema, #perfil-ben {
+#tema {
     background-color: #2c3144;
 }
 
-#lore, #perfil-basti {
+#lore {
     background-color: #353b52;
 }
 
+#perfil-basti{
+    background-color: #aeb1793f;
+}
+
+#perfil-benja{
+    background-color: #909ac23e;
+}
 
 .flex-container {
     display: flex;
@@ -108,7 +115,7 @@ section {
 p {
     text-align: justify;
     font-size: 21px;
-    line-height: 1.8;
+    line-height: 2;
 }
 
 img.bordeada {
@@ -117,7 +124,7 @@ img.bordeada {
 }
 
 a {
-    color: #b49d41;
+    color: #e6c53f;
 }
 
 
